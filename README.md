@@ -7,8 +7,6 @@
 
 - 👯 Estoy buscando colaborar en **Flutter**
 
-- 📄 Conoce mis experiencias [file:///C:/Users/jaime/OneDrive/Escritorio/4%C2%BAICAI/Pr%C3%A1cticas%20Empresa/CV%20JAIME%20LLORET%20ROQUETA.pdf](file:///C:/Users/jaime/OneDrive/Escritorio/4%C2%BAICAI/Pr%C3%A1cticas%20Empresa/CV%20JAIME%20LLORET%20ROQUETA.pdf)
-
 - 💬 Pregúntame por **Python, C, Java**
 
 - 📫 How to reach me **jaimellorettrabajos@gmail.com**
