@@ -1,11 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jaime Lloret Roqueta</h1>
-<h3 align="center">Un estudiante de Ingeniería de Teleco que trata no morir en el intento de programar</h3>
+<h3 align="center">Teleco</h3>
 
-- 🔭 Actualmente estoy trabajando en **mi TFG titulado Plataforma para el aprendizaje de lenguajes de programaci´on apoyada en t´ecnicas de Machine Learning CodeLingo**
-
-- 🌱 Actualmente estoy aprendiendo **Flutter**
-
-- 👯 Estoy buscando colaborar en **Flutter**
 
 - 💬 Pregúntame por **Python, C, Java**
 
